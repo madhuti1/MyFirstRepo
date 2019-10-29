@@ -14,7 +14,8 @@ int main(void)
    char *s[] = 
    {
       "G tutorials",
-      "Tials Point"
+      "Tials Point",
+      " added one more line"
    };
 
    for (i = 0; i < 2; ++i)

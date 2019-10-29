@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 void main(void) {
-println("Hello Code");
-return 0;
+  int i=0;
+  for (; i < 10; i++) 
+    printf("Hello Code");
+return;
 }
